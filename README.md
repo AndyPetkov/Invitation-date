@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Date-invitation** is a simple and playful project that adds a twist to the typical decision-making process. This project allows users to invite their friends to go out through a web interface. The catch? Saying "NO" becomes a bit challenging and amusing!
+**Invitation-date** is a simple and playful project that adds a twist to the typical decision-making process. This project allows users to invite their friends to go out through a web interface. The catch? Saying "NO" becomes a bit challenging and amusing!
 
 ## Technologies Used
 
