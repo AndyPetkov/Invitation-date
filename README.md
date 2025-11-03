@@ -14,7 +14,7 @@
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/AndyPetkov/Date-invitation.git
+   git clone https://github.com/AndyPetkov/Invitation-date.git
    ```
 2. Open the index.html file in your web browser.
 
@@ -22,7 +22,7 @@
 
 ## Demo
 
-https://andypetkov.github.io/Date-invitation/
+https://andypetkov.github.io/Invitation-date/
 
 ## Contributing 
 
